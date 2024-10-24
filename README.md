@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atailh4n&label=Profile%20views&color=0e75b6&style=flat" alt="atailh4n" /> </p>
 
-- Currently working on: **Small Business Inventory Tracking (smbiTrack)**
+- Currently working on: **S.A.K.İ.N. Go Edition**
 
-- Currently learning: **Apache Cordova**
+- Currently learning: **GoLang**
 
 - Knows well: **Express, MongoDB, JavaScipt, TypeScript, MySQL, php, Godot GDScript, Unity# (C#)**
 
