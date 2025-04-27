@@ -1,7 +1,7 @@
 <h1 align="center">Ata İlhan Köktürk</h1>
-<h3 align="center">Full-stack developer.</h3>
+<h3 align="center">Multi-diciplinary developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atailh4n&label=Profile%20views&color=0e75b6&style=for-the-badge&color=grey" alt="atailh4n" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atailh4n&label=Profile%20views&color=0e75b6&style=for-the-badge&color=grey" alt="atailh4n" /> <a href="https://atailh4n.vercel.app">Visit my website</a> </p>
 
 - Currently working on: **S.A.K.İ.N. Go Edition**
 
